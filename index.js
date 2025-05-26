@@ -13,5 +13,5 @@ const p = document.createElement('p');
 const pData = document.createTextNode('Total fruits: 4');
 p.appendChild(pData);
 const ul = document.querySelector('.fruits');
-div2.insertBefore(p, ul);
-p.id = "fruits-total";
+// div2.insertBefore(p, ul);
+// p.id = "fruits-total";
